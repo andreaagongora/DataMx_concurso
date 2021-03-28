@@ -5,4 +5,8 @@
 <p><b>Metodologia:</b> Se determinó un porcentaje de incremento o decrementento del tercer trimestre del 2020 con respecto al primer trimestre del 2019 en las ocupaciones reportadas en la base de datos  <a href="https://api.datamexico.org/ui/?cube=wellness_credits&debug=false&distinct=true&drilldowns%5B%5D&measures%5B0%5D=Credits&nonempty=true&parents=false&sparse=false%2F">Data Mexico API explorer</a>. Posteriormente se visualizaron las 10 más afectadas en hombres y mujeres y las 10 menos afectadas en hombres y mujeres.</p>
 
 
+<h3>10 ocupaciones con mayor impacto y 10 ocupaciones con menor impacto en <b>Mujeres</b></h3>
  <img src="https://github.com/andreaagt/DataMx_concurso/blob/main/Ocup_mujeres.png" alt="Ocupaciones afectadas y no afectadas en mujeres" style="width:75px;height:50px;"> 
+
+<h3>10 ocupaciones con mayor impacto y 10 ocupaciones con menor impacto en <b>Mujeres</b></h3>
+ <img src="https://github.com/andreaagt/DataMx_concurso/blob/main/Ocup_hombres.png" alt="Ocupaciones afectadas y no afectadas en mujeres" style="width:75px;height:50px;"> 
