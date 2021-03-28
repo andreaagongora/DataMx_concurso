@@ -6,7 +6,7 @@
 
 
 <h3>10 ocupaciones con mayor impacto y 10 ocupaciones con menor impacto en <b>Mujeres</b></h3>
- <img src="https://github.com/andreaagt/DataMx_concurso/blob/main/Ocup_mujeres.png" alt="Ocupaciones afectadas y no afectadas en mujeres" style="width:75px;height:50px;"> 
+ <img src="https://github.com/andreaagt/DataMx_concurso/blob/main/Mujeres.png" alt="Ocupaciones afectadas y no afectadas en mujeres" style="width:75px;height:50px;"> 
 
 <h3>10 ocupaciones con mayor impacto y 10 ocupaciones con menor impacto en <b>Mujeres</b></h3>
- <img src="https://github.com/andreaagt/DataMx_concurso/blob/main/Ocup_hombres.png" alt="Ocupaciones afectadas y no afectadas en mujeres" style="width:75px;height:50px;"> 
+ <img src="https://github.com/andreaagt/DataMx_concurso/blob/main/Hombres.png" alt="Ocupaciones afectadas y no afectadas en mujeres" style="width:75px;height:50px;"> 
